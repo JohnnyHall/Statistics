@@ -33,7 +33,7 @@ th {
   text-align: left;
   font-size: 14px;
   font-weight: 600;
-  color: rgb(118,13,42);
+  color: rgb(201, 209, 217); <!-- AQUI QUE FICA A COR DO TITULO -->
 }
 
 td {
