@@ -9,8 +9,8 @@ svg {
 #background {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
-  fill: white;
-  stroke: rgb(225, 228, 232);
+  fill: rgb(13, 17, 23);
+  stroke: rgb(48, 54, 61);
   stroke-width: 1px;
   rx: 6px;
   ry: 6px;
@@ -24,11 +24,10 @@ foreignObject {
 h2 {
   margin-top: 0;
   margin-bottom: 0.75em;
-  line-height: 24px;
-  font-size: 16px;
-  font-weight: 600;
-  color: rgb(36, 41, 46);
   fill: rgb(36, 41, 46);
+  font-size: 14px;
+  font-weight: 600;
+  color: rgb(230, 230, 230);
 }
 
 ul {
@@ -73,25 +72,25 @@ div.ellipsis {
   display: flex;
   height: 8px;
   overflow: hidden;
-  background-color: rgb(225, 228, 232);
+  background-color: rgb(13, 17, 23);
   border-radius: 6px;
   outline: 1px solid transparent;
   margin-bottom: 1em;
 }
 
 .progress-item {
-  outline: 2px solid rgb(225, 228, 232);
+  outline: 2px solid rgb(55, 73, 99);
   border-collapse: collapse;
 }
 
 .lang {
   font-weight: 600;
   margin-right: 4px;
-  color: rgb(36, 41, 46);
+  color: white;
 }
 
 .percent {
-  color: rgb(88, 96, 105)
+  color: rgb(168, 190, 201);
 }
 </style>
 <g>
